@@ -17499,6 +17499,9 @@
 	<programme channel="咪咕综合体育" start="20260829094500 +0800" stop="20260829101000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260829101500 +0800" stop="20260829115500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第24轮 成都蓉城-上海申花</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17534,6 +17537,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260829090500 +0800" stop="20260829103500 +0800">
 		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260829103500 +0800" stop="20260829104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260829104500 +0800" stop="20260829114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260829114500 +0800" stop="20260829115500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59463,6 +59475,12 @@
 	<programme channel="newtv超级综艺" start="20260829091500 +0800" stop="20260829102900 +0800">
 		<title lang="zh">中国乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260829102900 +0800" stop="20260829114200 +0800">
+		<title lang="zh">金声玉振 中国器乐大会</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260829114200 +0800" stop="20260829123200 +0800">
+		<title lang="zh">远山之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59490,6 +59508,9 @@
 	<programme channel="newtv超级体育" start="20260829090000 +0800" stop="20260829103100 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 洛桑站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260829103100 +0800" stop="20260829120000 +0800">
+		<title lang="zh">国际足球赛场-26-27赛季法甲联赛第1轮 昂热-里尔(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59513,6 +59534,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260829091700 +0800" stop="20260829111900 +0800">
 		<title lang="zh">潜伏者</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260829111900 +0800" stop="20260829124000 +0800">
+		<title lang="zh">后羿之逐日之战</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59555,6 +59579,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260829091400 +0800" stop="20260829095700 +0800">
 		<title lang="zh">38_北上广不相信眼泪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260829100200 +0800" stop="20260829104800 +0800">
+		<title lang="zh">09_青山是故乡</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260829104800 +0800" stop="20260829113300 +0800">
+		<title lang="zh">10_青山是故乡</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260829113300 +0800" stop="20260829121900 +0800">
+		<title lang="zh">11_青山是故乡</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60152,6 +60185,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260829095100 +0800" stop="20260829103400 +0800">
 		<title lang="zh">29_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260829103400 +0800" stop="20260829110900 +0800">
+		<title lang="zh">美国云杉新一代苏糖酸镁益脑黄金-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260829110900 +0800" stop="20260829115300 +0800">
+		<title lang="zh">11_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
